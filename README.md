@@ -1,6 +1,4 @@
-<p>
-    <img src="https://media.licdn.com/dms/image/v2/D5616AQHLMsKcMQqcdA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727873120529?e=1737590400&v=beta&t=a6EiVIktdxTb7exbdyNVxA2RRSmvKNxRDLSfjG8GEBE"> </img>
-</p>
+![Banner](./Banner.png)
 
 <h1>Hi, I'm Nicolas! 👋</h1>
 
