@@ -12,7 +12,8 @@ I am a junior developer with a strong eagerness to learn and grow in the world o
 - **JavaScript**: I’m working to master JavaScript to create dynamic functionalities in my applications.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nicobonilla3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/nicolas-bonilla-53b909322]) 
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([https://mail.google.com/mail/u/0/#inbox])
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/nicolas-bonilla-53b909322]) 
 
 # 💻 Tech Stack:
 ### Design:
