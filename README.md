@@ -36,26 +36,15 @@ I am a junior developer with a strong eagerness to learn and grow in the world o
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
-# 📊 GitHub Stats:
-<p style="display: flex; justify-content: center; align-items: center;">
-  <img alt="gif" width="300px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndybTI2dWI0cHJpazF5aXJmZWUxYzJrdmtkbDJ0bnliZmV5eGR6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.webp" />
-</p>
+<h2 align="center">📊 GitHub Stats</h2>
 
-<div style="justify-content:center;">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=NicoBoni55&theme=one_dark_pro&hide_border=false)<br/>    
-
-</div>
-
-<div>
-    
-![](https://github-readme-stats.vercel.app/api?username=NicoBoni55&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>    
-
-</div>
-
-<div>
-    
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoBoni55&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-
-</div>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndybTI2dWI0cHJpazF5aXJmZWUxYzJrdmtkbDJ0bnliZmV5eGR6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.webp" width="300px" /><br/></br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoBoni55&theme=one_dark_pro&hide_border=false" /><br/><br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=NicoBoni55&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false" /><br/><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoBoni55&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    </td>
+  </tr>
+</table>
